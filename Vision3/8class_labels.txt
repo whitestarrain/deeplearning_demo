@@ -1,0 +1,8 @@
+1 AnswerPhone
+2 GetOutCar
+3 HandShake
+4 HugPerson
+5 Kiss
+6 SitDown
+7 SitUp
+8 StandUp

@@ -1,0 +1,9 @@
+*.pyc
+datasets
+dataset
+*/__pycache__
+.idea
+*.avi
+*.jpg
+*.png
+*.mp4
